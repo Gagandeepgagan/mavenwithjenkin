@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78" started-at="2018-12-28T09:18:05Z" finished-at="2018-12-28T09:18:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78" started-at="2018-12-28T09:18:05Z" finished-at="2018-12-28T09:18:05Z">
+      <class name="Testing.Sample.browser_open">
+        <test-method status="PASS" signature="meth()[pri:0, instance:Testing.Sample.browser_open@616ca2]" name="meth" duration-ms="15" started-at="2018-12-28T09:18:05Z" finished-at="2018-12-28T09:18:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meth -->
+      </class> <!-- Testing.Sample.browser_open -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
